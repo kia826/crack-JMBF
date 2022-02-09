@@ -13,4 +13,5 @@ pip install bs4
 git clone https://github.com/kia826/crack-JMBF
 
 cd crack-JMBF
+
 python yy.py
